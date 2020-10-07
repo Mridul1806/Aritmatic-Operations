@@ -1,0 +1,1 @@
+In this documentation you will learn about some basic arithmatic operations, so enjoy the documentation.
